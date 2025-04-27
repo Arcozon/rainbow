@@ -1,4 +1,4 @@
-echo "[1;36mUse Ctrl+J to run a prettier command.[0m"
+echo "[1;36mUse Alt+E to run a prettier command.[0m"
 
 add_raiinbow() {
   BUFFER="$BUFFER | ~/.rainbow/rainbow"
